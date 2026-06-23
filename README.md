@@ -23,11 +23,11 @@ Desenvolver uma aplicação em Python capaz de:
 
 ### Execução do script Python
 
-<img width="300" height="110" alt="Image" src="https://github.com/user-attachments/assets/36042519-8460-4662-abbb-a27756ec4c4d" />
+<img width="341" height="84" alt="Image" src="https://github.com/user-attachments/assets/869272d9-5841-4dbf-b1e0-be974bd28dd5" />
 
 ### Mensagem recebida no WhatsApp
 
-<img width="430" height="430" alt="Image" src="https://github.com/user-attachments/assets/307f0a55-3388-4ed3-87dc-e142ef6072d9" />
+<img width="827" height="1029" alt="Image" src="https://github.com/user-attachments/assets/30e7642b-93df-4b9d-b9cf-c67a14b3ee74" />
 
 ---
 
@@ -36,12 +36,10 @@ Desenvolver uma aplicação em Python capaz de:
 * Python
 * Supabase
 * Z-API
-* Requests
-* Python Dotenv
 
 ---
 
-## Configuração
+## Configurações
 
 Crie um arquivo `.env` na raiz do projeto:
 
@@ -61,13 +59,14 @@ ZAPI_CLIENT_TOKEN=seu_client_token
 Clone o repositório:
 
 ```bash
-git clone [<url-do-repositorio>](https://github.com/CodIguinhoDev/b2bflow-python-challenge)
+git clone <url-do-repositorio> (https://github.com/CodIguinhoDev/b2bflow-python-challenge)
 ```
 
 Crie e ative um ambiente virtual:
 
 ```bash
-python -m venv venv
+Para criar: python -m venv venv
+Para ativar venv/Scripts/activate
 ```
 
 Instale as dependências:
