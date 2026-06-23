@@ -49,8 +49,7 @@ Conta na Z-API
 
 Verificar versões instaladas:
 
-python --version
-pip --version
+python --version e pip --version
 --
 ## Configurações
 
