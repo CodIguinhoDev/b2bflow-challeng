@@ -84,3 +84,4 @@ python main.py
 ---
 Documentação:
 https://developer.z-api.io/message/send-text
+https://www.conventionalcommits.org/en/v1.0.0/
