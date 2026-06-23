@@ -38,7 +38,20 @@ Desenvolver uma aplicação em Python capaz de:
 * Z-API
 
 ---
+Pré-requisitos
 
+Antes de executar o projeto, certifique-se de possuir:
+
+Python 3.12 ou superior
+Pip 24.0 ou superior
+Conta no Supabase
+Conta na Z-API
+
+Verificar versões instaladas:
+
+python --version
+pip --version
+--
 ## Configurações
 
 Crie um arquivo `.env` na raiz do projeto:
