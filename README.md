@@ -27,7 +27,7 @@ Desenvolver uma aplicação em Python capaz de:
 
 ### Mensagem recebida no WhatsApp
 
-<img width="827" height="1029" alt="Image" src="https://github.com/user-attachments/assets/30e7642b-93df-4b9d-b9cf-c67a14b3ee74" />
+<img width="430" height="500" alt="Image" src="https://github.com/user-attachments/assets/30e7642b-93df-4b9d-b9cf-c67a14b3ee74" />
 
 ---
 
