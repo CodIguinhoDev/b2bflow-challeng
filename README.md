@@ -42,10 +42,10 @@ Pré-requisitos
 
 Antes de executar o projeto, certifique-se de possuir:
 
-Python 3.12 ou superior
-Pip 24.0 ou superior
-Conta no Supabase
-Conta na Z-API
+* Python 3.12 ou superior
+* Pip 24.0 ou superior
+* Conta no Supabase
+*Conta na Z-API
 
 Verificar versões instaladas:
 
